@@ -11,7 +11,7 @@
 
 Нарисовал архитектуру (верхнего уровня) аналитического решения компании, в которой на данный момент работаю (не IT-компания). 
 
-![[drawio.png]]![]()
+![drawio.png](https://github.com/SuperAer/data-engineering/blob/05722bb867c55245d1fb840d24700874ba911f6a/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/Homework_SAV/drawio.png)
 
 
 Использовал draw.io.
